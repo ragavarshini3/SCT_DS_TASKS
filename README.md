@@ -50,7 +50,6 @@ seaborn
 numpy
 
 
-#TASK_02
 # Titanic Dataset
 
 ## Overview
@@ -101,6 +100,7 @@ The dataset is publicly available for research and educational purposes.
 ## References
 - Kaggle Titanic Competition: [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)
 - Encyclopedia Titanica: [https://www.encyclopedia-titanica.org/](https://www.encyclopedia-titanica.org/)
+
 #TASK_03
 # Bank Marketing Dataset
 
