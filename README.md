@@ -48,6 +48,8 @@ pandas
 matplotlib
 seaborn
 numpy
+
+
 #TASK_02
 # Titanic Dataset
 
