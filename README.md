@@ -1,4 +1,4 @@
-#TASK_01
+##TASK_01
 # Population Dataset
 
 This repository contains a population dataset, which includes demographic data for various countries, regions, or cities over a certain period. The dataset can be used for analysis and visualization purposes, helping users gain insights into population trends and projections.
@@ -49,8 +49,8 @@ matplotlib
 seaborn
 numpy
 
-
-# Titanic Dataset
+##TASK_02
+## Titanic Dataset
 
 ## Overview
 The **Titanic Dataset** is one of the most well-known datasets in machine learning and is often used for binary classification problems, such as predicting passenger survival based on various features.
@@ -101,7 +101,7 @@ The dataset is publicly available for research and educational purposes.
 - Kaggle Titanic Competition: [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)
 - Encyclopedia Titanica: [https://www.encyclopedia-titanica.org/](https://www.encyclopedia-titanica.org/)
 
-#TASK_03
+##TASK_03
 # Bank Marketing Dataset
 
 ## Overview
@@ -153,7 +153,8 @@ print(df.head())
 
 ## License
 This dataset is publicly available for research and educational purposes.
-#TASK_04
+
+##TASK_04
 # Traffic Accident Data Analysis
 
 ## Overview
@@ -195,5 +196,3 @@ This project analyzes traffic accident data to identify patterns related to road
 
 ## Author
 [Ragavarshini]
-
-
